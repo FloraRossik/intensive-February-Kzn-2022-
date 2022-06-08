@@ -1,0 +1,6 @@
+- open file door_1.conf with the command nano door_managment_files/door_configuration/door_1.conf
+- go to line 3
+- select and deleted the word "CLOSED"
+- write the word "OPEN"
+- save the changes to the file with ctr + o
+-  exit the file with ctr + x

@@ -1,0 +1,7 @@
+mv door_mangment_fi door_managment_files
+mkdir door_managment_files/door_congiguration
+mkdir door_managment_files/door_logs
+mkdir door_managment_files/door_map
+mv door_managment_files/door_*.conf door_managment_files/door_congiguration
+mv door_managment_files/door_*.log door_managment_files/door_logs
+mv door_managment_files/door_map_1.1 door_managment_files/door_map
